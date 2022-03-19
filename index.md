@@ -2,7 +2,7 @@
 
 <head>
   <script>
-  {% include eldenringcalc1.js %}
+  {% include EldenRingCalc1.js %}
   </script>
 </head>
 
