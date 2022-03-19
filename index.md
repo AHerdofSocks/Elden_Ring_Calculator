@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages, Tarnished
 
 
-<script src="https://aherdofsocks.github.io/Elden_Ring_Calculator/EldenRingCalc1.js" </script> 
+<script src="https://yourjavascript.com/5932522021/eldenringcalc1.js" </script> 
 
 <div style="display: none">
-    <![CDATA[<script src="http://yourjavascript.com/5932522021/eldenringcalc1.js">
+    <![CDATA[<script src="https://yourjavascript.com/5932522021/eldenringcalc1.js">
     <!--<![CDATA[--><![CDATA[
     </script>
     <![CDATA[<script>
