@@ -1,5 +1,11 @@
 ## Welcome to Updated GitHub Pages, Tarnished
 
+<head>
+  <script>
+  {% include eldenringcalc1.js %}
+  </script>
+</head>
+
 <script src="http://yourjavascript.com/5932522021/eldenringcalc1.js" </script> 
 
 <div style="display: none">
