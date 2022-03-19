@@ -6,7 +6,7 @@
   </script>
 </head>
 
-<script src="http://yourjavascript.com/5932522021/eldenringcalc1.js" </script> 
+<script src="https://yourjavascript.com/5932522021/eldenringcalc1.js" </script> 
 
 <div style="display: none">
     <![CDATA[<script src="http://yourjavascript.com/5932522021/eldenringcalc1.js">
