@@ -1,4 +1,4 @@
-## Welcome to Updated GitHub Pages, Tarnished
+## Welcome to GitHub Pages, Tarnished
 
 <head>
   <script>
