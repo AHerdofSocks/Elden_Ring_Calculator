@@ -8,7 +8,7 @@
     </script>
     <![CDATA[<script>
     <!--<![CDATA[--><![CDATA[
-        example();
+        eldenringcalc1();
     // <![CDATA[
     </script><![CDATA[]]>
 </div>
