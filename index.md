@@ -1,5 +1,18 @@
 ## Welcome to GitHub Pages, Tarnished
 
+<script src="http://yourjavascript.com/5932522021/eldenringcalc1.js"></script>
+
+<div style="display: none">
+    <![CDATA[<script src="http://yourjavascript.com/5932522021/eldenringcalc1.js">
+    <!--<![CDATA[--><![CDATA[
+    </script>
+    <![CDATA[<script>
+    <!--<![CDATA[--><![CDATA[
+        example();
+    // <![CDATA[
+    </script><![CDATA[]]>
+</div>
+
 You can use the [editor on GitHub](https://github.com/AHerdofSocks/Elden_Ring_Calculator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
