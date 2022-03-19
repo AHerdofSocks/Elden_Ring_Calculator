@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages, Tarnished
+## Welcome to Updated GitHub Pages, Tarnished
 
 <script src="http://yourjavascript.com/5932522021/eldenringcalc1.js"></script> <script>
 //#from flask import flask
