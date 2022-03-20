@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages, Tarnished
 
-<script src="{{ site.baseurl }}{% link assets/js/list.js %}" </script>
-<script src="https://yourjavascript.com/5932522021/eldenringcalc1.js" </script> 
+
+<script src="https://yourjavascript.com/5932522021/eldenringcalc1.js"></script> 
 
 <div style="display: none">
     <![CDATA[<script src="https://yourjavascript.com/5932522021/eldenringcalc1.js">
